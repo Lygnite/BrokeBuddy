@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Restaurant Deals</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_u_10_u_results">Display <p><u>10</u></p> Results</string>
+</resources>
